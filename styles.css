@@ -35,6 +35,7 @@ h1 {
   padding: 20px;
   border-radius: 15px;
   border: peru 2px solid;
+  box-shadow: 4px 4px 6px rgba(112, 73, 22, 0.827);
 }
 
 #jokeBtn {
